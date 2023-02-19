@@ -19,5 +19,5 @@ The 5 Sampling Techniques used are:
 5. Undersampling
 
 ## The best accuracy achieved is 0.984716 with Decision Tree Model and Cluster Sampling Technique.
-
+### The Final Result is at the end of the Python Notebook. (ignore the warnings)
 (The accuracy might vary for different rows picked in the sample when a sample is generated.)
