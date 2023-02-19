@@ -20,4 +20,4 @@ The 5 Sampling Techniques used are:
 
 ## The best accuracy achieved is 0.984716 with Decision Tree Model and Cluster Sampling Technique.
 
-(The accuracy might vary for different rows pciked in the sample when a sample is generated.)
+(The accuracy might vary for different rows picked in the sample when a sample is generated.)
